@@ -1,6 +1,6 @@
 {
   "name": "spacecraft-logger",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "a logger for spacecraft or any other application",
   "main": "index.js",
   "scripts": {
